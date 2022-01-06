@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mandy0371
+- 👋 Hi, I’m @nguyenthanhtai0371
 - 👀 I’m interested in web developed
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java, html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
